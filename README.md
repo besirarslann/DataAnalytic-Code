@@ -1,6 +1,4 @@
-# DataAnalytic-Code
-The purpose of my repository is to improve my data analytics skills, gain proficiency in pandas numpy and multiple pypi libraries used in data analysis.
-My github repo contains data analyze, data preprocessing, data visualization and data modeling.
+# Data Mining
 
 The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model that serves as the base for a data science process.
 
